@@ -10,5 +10,5 @@ func main() {
 	fmt.Println("Ingresa cuanto mide el radio")
 	fmt.Scanf("%f", &radio)
 	area := math.Pi * radio * radio
-	fmt.Println("El area del triangulo es: ", area)
+	fmt.Println("El area del circulo es: ", area)
 }
